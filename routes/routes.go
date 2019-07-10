@@ -1,7 +1,7 @@
 package routes
 
 import (
-	"eshop/controller"
+	"cloud/controller"
 
 	"github.com/labstack/echo"
 	"github.com/labstack/echo/middleware"

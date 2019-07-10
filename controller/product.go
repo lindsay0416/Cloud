@@ -1,7 +1,7 @@
 package controller
 
 import (
-	"eshop/db"
+	"cloud/db"
 	"net/http"
 
 	"github.com/labstack/echo"
